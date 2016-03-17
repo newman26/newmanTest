@@ -6,7 +6,7 @@ public class Test
 
 	public static void main(String[] args) 
 	{
-		System.out.println("---------------1er exercice-------------------------");
+		System.out.println("----------nnnnnnnnn-----1er exercice-------------------------");
 	    Item i1 = new Item ("Vodka", "Une bouteille de Vodka", 5483918746738L, 75.5);
 	    Item i2 = new Item ("Filet de citron 200g", 5473664615361L, 3.25);
 	    System.out.println(i1.getPrice());
