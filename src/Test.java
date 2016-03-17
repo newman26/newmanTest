@@ -12,7 +12,7 @@ public class Test
 	    System.out.println(i1.getPrice());
 	    System.out.println(i2.getPrice(9));
 	    
-	    System.out.println("\n\n---------------2eme exercice-------------------------");
+	    System.out.println("\n\n------------fff---2eme exercice-------------------------");
 	    GregorianCalendar d = new GregorianCalendar (1985, Calendar.DECEMBER, 6);
 	    Person p = new Person ("Sébastien Combéfis", d);
 	 
